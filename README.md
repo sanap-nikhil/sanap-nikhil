@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Nikhil 👋
 
-<!--
-**sanap-nikhil/sanap-nikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build products end to end and ship them.
 
-Here are some ideas to get you started:
+Right now I'm building **SmartPe**, a card-benefits advisor for Indian cardholders. It tells you which card to use for a payment, right now, and why.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lately, I've been working on**
+
+- A versioned knowledge base of credit-card rules, sourced from bank documents
+- A recommendation engine that checks its estimates against real statements
+- Agent workflows with Claude Code for review, testing, and data extraction
+- A React Native (Expo) app with a Fastify + PostgreSQL backend
+
+## A bit about me
+
+- **Solo founder** of SmartPe. Before that, I built Postclyp.
+- I like boring, correct systems: tests, typed code, and clear decisions.
+
+If you're building in fintech or with AI agents, feel free to reach out.
